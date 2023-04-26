@@ -12,9 +12,6 @@ for f in *; do echo "$f" done
 # SH-1010
 for f in *; do echo "$f" done
 
-# SH-1010
-for f in *; do echo "$f" done
-
 # SH-1015
 echo “hello world”
 
